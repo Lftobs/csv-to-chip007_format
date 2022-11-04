@@ -25,7 +25,7 @@ def to_hash():
 def append_hash_to_csv():
 	print(f"{len(k)} + files created")
 	file =  'HNGi9_nft1.csv'
-	new_f = "Hashed-csv/data(updated).csv"
+	new_f = "Hashed-csv/HNGi9_nft(updated).csv"
 	with open(file, 'r') as origin_csv:
 		data = [line.strip().split(',') for line in origin_csv.readlines()]
 		header = data[0]
