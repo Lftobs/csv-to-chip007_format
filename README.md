@@ -2,4 +2,8 @@
 
 ## How to use
 
-Clone repo to local machine
+* Clone repo to local machine
+
+```
+ git clone ""
+```
