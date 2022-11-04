@@ -1,6 +1,6 @@
 # csv-to-chip007_format
 
-Programm to create a Json file in ch007_format from a given CSV file
+Program to create a Json file in ch007_format from a given CSV file
 
 
 ## How to use
